@@ -78,9 +78,7 @@ Paso 4: Configurar base de datos
 - Ingresar a http://localhost:8080  
 - Crear base de datos: db_estudiante  
 - Crear tabla: estudiante  
-- Insertar registros  
-
-Figura 8-1. Interfaz de phpMyAdmin con datos insertados  
+- Insertar registros   
 
 
 ## 9. Resultados esperados:
