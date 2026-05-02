@@ -91,6 +91,8 @@ Se logró implementar una arquitectura funcional usando contenedores.
 - phpMyAdmin conectado al servidor  
 - Base de datos creada  
 - Tabla estudiante con registros  
+![](evidenciaphp.png)
+![](evidenciaphp2.png)
 
 
 ## 10. Bibliografía
